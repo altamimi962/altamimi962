@@ -26,18 +26,9 @@ I am a Computer Engineering student at **Jordan University of Science and Techno
 
 <br>
 
-### 📊 Github Stats
-
-<a href='https://github.com/altamimi962'>
-
-![Stats Overview](https://github-readme-stats.vercel.app/api?username=AbdullahAltamimi\&show_icons=true\&hide_border=true\&count_private=true)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahAltamimi\&layout=compact\&hide_border=true)
-
-</a>
 
 <br>
 
 ### 🛠️ My Projects
 
-<a href="https://github.com/AbdullahAltamimi" target="_blank"> <img alt="github" src="https://skillicons.dev/icons?i=github" height="68" align="left"> </a>
+<a href="https://github.com/altamimi962" target="_blank"> <img alt="github" src="https://skillicons.dev/icons?i=github" height="68" align="left"> </a>
