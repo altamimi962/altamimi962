@@ -59,10 +59,6 @@ I enjoy learning by building, understanding how things work under the hood, and 
 
 ### AI & Automation
 
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
-
 * AI API integration
 * AI-powered applications
 * AI Agents
@@ -94,12 +90,24 @@ I use AI as a learning mentor to generate programming tasks and project ideas, w
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ My Development Journey
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&rank_icon=github" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" />
-</p>
+My development journey started with a strong foundation in programming and problem solving, then gradually expanded into modern web development and AI integration.
+
+**Programming Foundations**
+C++ → OOP → Data Structures & Algorithms → Problem Solving
+
+**Web Development**
+HTML → CSS → JavaScript → TypeScript → React → Next.js
+
+**Modern Backend**
+Node.js → Express → REST APIs → MongoDB → SQL Databases
+
+**Development Tools**
+Git → GitHub → Docker → Development & Deployment Workflows
+
+**Current Direction**
+Full-Stack Development → AI Integration → AI Agents → AI-Powered Applications
 
 ---
 
@@ -120,32 +128,6 @@ Projects exploring AI APIs, AI agents, automation, and integrating intelligent f
 ### 🧩 Software Engineering Projects
 
 Projects focused on problem solving, algorithms, backend development, and software architecture.
-
----
-
-## 📈 My Development Journey
-
-```text
-C++ / OOP / Data Structures & Algorithms
-                ↓
-          Python & Backend
-                ↓
-       HTML / CSS / JavaScript
-                ↓
-             React
-                ↓
-          TypeScript
-                ↓
-            Next.js
-                ↓
-          Node.js / Express
-                ↓
-       SQL / NoSQL Databases
-                ↓
-          Git / Docker
-                ↓
-       AI Integration & Agents
-```
 
 ---
 
