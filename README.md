@@ -1,139 +1,117 @@
-# Hey 👋, I'm Abdullah Altamimi!
+# Hey 👋, I'm Abdullah Altamimi
 
-**Computer Engineering Student | Full-Stack Developer | AI Integration Enthusiast**
+**Computer Engineering Student @ Jordan University of Science and Technology**
+**Full-Stack Developer | AI Integration**
 
-I'm a Computer Engineering student at **Jordan University of Science and Technology (JUST)** with a strong interest in building practical software solutions.
+I’m a Computer Engineering student interested in building software that goes beyond simply working — I like understanding how the pieces fit together.
 
-My main focus is **Full-Stack Web Development**, using modern JavaScript/TypeScript technologies, while exploring how **AI can be integrated into real-world applications**.
+My current direction is **Full-Stack Development with TypeScript**, while exploring **AI integration and agentic applications**.
 
-I enjoy learning by building, understanding how things work under the hood, and turning concepts into practical implementations.
-
----
-
-## 🧠 About Me
-
-* 🎓 Computer Engineering student at **Jordan University of Science and Technology**
-* 💻 Focused on **Full-Stack Web Development**
-* 🤖 Exploring **AI Integration, AI Agents, and AI-powered applications**
-* 🌐 Working with **Next.js, React, Node.js, TypeScript, and databases**
-* 🐍 Experienced with **Python** and familiar with backend development using Django
-* 🗄️ Working with both **SQL and NoSQL databases**
-* 🐳 Familiar with **Docker** and modern development workflows
-* 🧩 Strong foundation in **C++, OOP, Data Structures & Algorithms**
-* 📚 I document what I learn and focus on understanding concepts rather than simply following tutorials
-* 🚀 Currently improving my ability to design, build, and deploy complete applications
+I’m especially interested in the part where frontend, backend, databases, APIs, and AI come together to form a complete product.
 
 ---
 
-## 🛠️ Tech Stack
+### What I Work With
 
-### Languages
+**Frontend**
+React · Next.js · TypeScript · JavaScript · HTML · CSS · Tailwind CSS
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,cs,python,javascript,typescript,html,css,sql" />
-</p>
+**Backend**
+Node.js · Express · Django · REST APIs
 
-### Frontend
+**Databases**
+SQL · PostgreSQL · MySQL · MongoDB
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
-</p>
+**Programming**
+C++ · C# · Python · OOP · Data Structures · Algorithms
 
-### Backend
+**Tools**
+Git · GitHub · Docker · Linux · VS Code · Postman
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,django" />
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
-</p>
-
-### Tools & Technologies
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman" />
-</p>
-
-### AI & Automation
-
-* AI API integration
-* AI-powered applications
-* AI Agents
-* Workflow automation with n8n
-* Local AI experimentation with Ollama
+**AI & Automation**
+AI API Integration · AI-powered Applications · AI Agents · n8n · Ollama
 
 ---
 
-## 🔨 What I'm Currently Working On
+### How I Learn
 
-* 🚀 Strengthening my **Full-Stack development skills**
-* ⚙️ Building applications with **Next.js + Node.js**
-* 🗄️ Improving my backend and database architecture skills
-* 🤖 Exploring **AI integration and agentic workflows**
-* 🧪 Practicing through independent tasks and projects
-* 📦 Learning how to build applications from development to deployment
+I don't want to just know *how* to use a technology.
+I want to understand **why it works, what happens underneath, and where it actually makes sense to use it**.
 
----
+My usual cycle is:
 
-## 📚 Learning Approach
+**Learn → Understand → Build → Break → Debug → Document → Repeat**
 
-I believe in learning through **understanding + implementation**.
-
-Instead of only completing tutorials, I try to:
-
-**Learn → Understand → Build → Debug → Document → Apply**
-
-I use AI as a learning mentor to generate programming tasks and project ideas, while implementing and solving them independently.
+I also use AI as a **learning mentor** — mainly to generate challenges, exercises, and project ideas that I implement and solve myself.
 
 ---
 
-## 🛠️ My Development Journey
+### My Path So Far
 
-My development journey started with a strong foundation in programming and problem solving, then gradually expanded into modern web development and AI integration.
+```text
+C++ / OOP / DSA
+       ↓
+HTML / CSS / JavaScript
+       ↓
+TypeScript
+       ↓
+React
+       ↓
+Next.js
+       ↓
+Node.js / Express
+       ↓
+SQL / NoSQL
+       ↓
+Git / Docker
+       ↓
+Full-Stack Development
+       ↓
+AI Integration & Agentic Applications
+```
 
-**Programming Foundations**
-C++ → OOP → Data Structures & Algorithms → Problem Solving
-
-**Web Development**
-HTML → CSS → JavaScript → TypeScript → React → Next.js
-
-**Modern Backend**
-Node.js → Express → REST APIs → MongoDB → SQL Databases
-
-**Development Tools**
-Git → GitHub → Docker → Development & Deployment Workflows
-
-**Current Direction**
-Full-Stack Development → AI Integration → AI Agents → AI-Powered Applications
-
----
-
-## 🚀 Featured Projects
-
-Here are some of the projects I'm working on and building as part of my development journey.
-
-<!-- Add your projects here -->
-
-### 🌐 Full-Stack Applications
-
-Applications built to practice frontend, backend, databases, authentication, APIs, and deployment.
-
-### 🤖 AI-Powered Applications
-
-Projects exploring AI APIs, AI agents, automation, and integrating intelligent features into software applications.
-
-### 🧩 Software Engineering Projects
-
-Projects focused on problem solving, algorithms, backend development, and software architecture.
+Each step has been about expanding what I can build independently, rather than simply adding another technology to a list.
 
 ---
 
-## 🤝 Let's Connect
+### What I'm Building Toward
 
-I'm always interested in connecting with developers, engineers, and people working on interesting technology projects.
+My goal is to become capable of taking an idea from:
+
+**Concept → Architecture → Code → Database → API → UI → AI Integration → Deployment**
+
+That means improving not only my coding skills, but also how I approach **software architecture, debugging, system design, and real-world development**.
+
+---
+
+### Projects
+
+Most of the repositories here represent something I was trying to understand, build, or solve.
+
+You'll find projects around:
+
+* Full-Stack Web Applications
+* Backend & REST APIs
+* Database-driven Applications
+* AI-powered Features
+* Automation & AI Workflows
+* Programming & Problem Solving
+
+More projects will be added as I continue turning what I learn into things I can actually build.
+
+---
+
+### Beyond the Code
+
+I document concepts and lessons throughout my learning process because writing things down forces me to understand them properly.
+
+You'll also find experiments, notes, smaller implementations, and projects that reflect what I'm currently learning.
+
+---
+
+### Connect
+
+If you're interested in software engineering, AI, or building things with technology, feel free to connect.
 
 <p>
 <a href="https://www.linkedin.com/in/altamimi962/">
@@ -143,4 +121,4 @@ I'm always interested in connecting with developers, engineers, and people worki
 
 ---
 
-⭐ Feel free to explore my repositories and follow my journey as I continue building and learning.
+⭐ Thanks for stopping by.
