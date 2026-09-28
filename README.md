@@ -1,134 +1,43 @@
-# Hey 👋, I'm Abdullah Altamimi
+## Hey 👋, I'm Abdullah Altamimi!
 
-**Computer Engineering Student @ Jordan University of Science and Technology**
-**Full-Stack Developer | AI Integration**
+<a href='https://www.linkedin.com/in/altamimi962/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a> <a href='https://github.com/altamimi962'><img align='left' alt="github" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/github.svg" height='18px'/></a>
 
-I'm a Computer Engineering student interested in building software that goes beyond simply working — I like understanding how the pieces fit together.
+I am a Computer Engineering student at **Jordan University of Science and Technology (JUST)** with a strong interest in building practical software solutions. My main focus is **Full Stack Web Development 🌐**, while exploring **AI Integration 🤖** and AI-powered applications depending on what the project requires. I enjoy exploring new technologies 💻, understanding how things work under the hood, and turning what I learn into practical implementations 🛠️. <br/> <br/>
 
-My current direction is **Full-Stack Development with TypeScript**, while exploring **AI integration and agentic applications**.
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
-I'm especially interested in the point where **frontend, backend, databases, APIs, and AI** come together to form complete applications.
+### 🧐 More About Me:
+
+* 🔭   I'm currently strengthening my **Full Stack development skills**
+* 🤝   I'm interested in collaborating on **software, Full Stack, and AI-related projects**
+* 🌱   I'm currently learning and improving **Node.js, backend development, databases, and AI integration**
+* 👨🏻‍💻   Most of my projects are available on [Github](https://github.com/altamimi962)
+* 🎓   I'm currently studying **Computer Engineering at Jordan University of Science and Technology**
+* 💬   I'm interested in **Full Stack Development, AI Integration, APIs, databases, and software engineering**
+* 📫   Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/altamimi962/)
+* 📚   I document what I learn and focus on understanding concepts rather than simply following tutorials
+* 🧠   I use AI as a **learning mentor** to generate programming tasks and project ideas that I implement independently
 
 <br>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="600">
-</p>
+### 🔨 Languages and Tools:
+
+<a href="https://isocpp.org/" target="_blank"> <img align="left" src="https://skillicons.dev/icons?i=cpp" alt="C++" height="42px"/> </a> <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img align="left" src="https://skillicons.dev/icons?i=cs" alt="C#" height="42px"/> </a> <a href="https://www.python.org" target="_blank"> <img align="left" src="https://skillicons.dev/icons?i=python" alt="Python" height="42px"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" height="42px"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img align="left" src="https://skillicons.dev/icons?i=typescript" alt="TypeScript" height="42px"/> </a> <a href="https://react.dev/" target="_blank"> <img align="left" src="https://skillicons.dev/icons?i=react" alt="React" height="42px"/> </a> <a href="https://nextjs.org/" target="_blank"> <img align="left" src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" height="42px"/> </a> <a href="https://nodejs.org" target="_blank"> <img align="left" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="42px"/> </a> <a href="https://expressjs.com/" target="_blank"> <img align="left" src="https://skillicons.dev/icons?i=express" alt="Express" height="42px"/> </a> <a  <a href="https://www.postgresql.org/" target="_blank"> <img align="left" src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" height="42px"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img align="left" src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="42px"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img align="left" src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="42px"/> </a> <a href="https://git-scm.com/" target="_blank"> <img align="left" src="https://skillicons.dev/icons?i=git" alt="Git" height="42px"/> </a> <a href="https://github.com/" target="_blank"> <img align="left" src="https://skillicons.dev/icons?i=github" alt="GitHub" height="42px"/> </a> <a href="https://www.docker.com/" target="_blank"> <img align="left" src="https://skillicons.dev/icons?i=docker" alt="Docker" height="42px"/> </a> <a href="https://www.linux.org/" target="_blank"> <img align="left" src="https://skillicons.dev/icons?i=linux" alt="Linux" height="42px"/> </a> <a href="https://code.visualstudio.com/" target="_blank"> <img align="left" src="https://skillicons.dev/icons?i=vscode" alt="VS Code" height="42px"/> </a> <a href="https://www.postman.com/" target="_blank"> <img align="left" src="https://skillicons.dev/icons?i=postman" alt="Postman" height="42px"/> </a>
 
 <br>
 
----
+### 📊 Github Stats
 
-## What I Work With
+<a href='https://github.com/altamimi962'>
 
-### Frontend
+![Stats Overview](https://github-readme-stats.vercel.app/api?username=AbdullahAltamimi\&show_icons=true\&hide_border=true\&count_private=true)
 
-React · Next.js · TypeScript · JavaScript · HTML · CSS · Tailwind CSS
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahAltamimi\&layout=compact\&hide_border=true)
 
-### Backend
+</a>
 
-Node.js · Express · Django · REST APIs
+<br>
 
-### Databases
+### 🛠️ My Projects
 
-SQL · PostgreSQL · MySQL · MongoDB
-
-### Programming
-
-C++ · C# · Python · OOP · Data Structures · Algorithms
-
-### Tools
-
-Git · GitHub · Docker · Linux · VS Code · Postman
-
-### AI & Automation
-
-AI API Integration · AI-powered Applications · AI Agents · n8n · Ollama
-
----
-
-## How I Learn
-
-I don't want to just know **how** to use a technology.
-I want to understand **why it works, what happens underneath, and where it actually makes sense to use it**.
-
-**Learn → Understand → Build → Break → Debug → Document → Repeat**
-
-I also use AI as a **learning mentor** to generate programming challenges, exercises, and project ideas that I implement and solve independently.
-
----
-
-## My Path So Far
-
-```text
-C++ / OOP / DSA
-       ↓
-HTML / CSS / JavaScript
-       ↓
-TypeScript
-       ↓
-React
-       ↓
-Next.js
-       ↓
-Node.js / Express
-       ↓
-SQL / NoSQL
-       ↓
-Git / Docker
-       ↓
-Full-Stack Development
-       ↓
-AI Integration & Agentic Applications
-```
-
-Each step has been about expanding what I can build independently, rather than simply adding another technology to a list.
-
----
-
-## What I'm Building Toward
-
-My goal is to become capable of taking an idea from:
-
-**Concept → Architecture → Code → Database → API → UI → AI Integration → Deployment**
-
-That means improving not only my coding skills, but also my understanding of **software architecture, debugging, system design, and real-world development**.
-
----
-
-## Projects
-
-Most of the repositories here represent something I was trying to understand, build, or solve.
-
-You'll find projects around:
-
-* Full-Stack Web Applications
-* Backend & REST APIs
-* Database-driven Applications
-* AI-powered Features
-* Automation & AI Workflows
-* Programming & Problem Solving
-
----
-
-## Beyond the Code
-
-I document concepts and lessons throughout my learning process because writing things down forces me to understand them properly.
-
-You'll also find experiments, notes, smaller implementations, and projects that reflect what I'm currently learning.
-
----
-
-## Connect
-
-If you're interested in software engineering, AI, or building things with technology, feel free to connect.
-
-<p>
-  <a href="https://www.linkedin.com/in/altamimi962/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40">
-  </a>
-</p>
-
----
-
-⭐ Thanks for stopping by.
+<a href="https://github.com/AbdullahAltamimi" target="_blank"> <img alt="github" src="https://skillicons.dev/icons?i=github" height="68" align="left"> </a>
