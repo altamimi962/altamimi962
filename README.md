@@ -1,61 +1,164 @@
-## Hey 👋, I'm Rahul Jha!
-<a href='https://www.linkedin.com/in/rahul-jha98/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<a href='https://twitter.com/jharahul98/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
-<a href='https://www.kaggle.com/rahuljha98/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
+# Hey 👋, I'm Abdullah Altamimi!
 
+**Computer Engineering Student | Full-Stack Developer | AI Integration Enthusiast**
 
-I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
-<br/>
-<br/>
+I'm a Computer Engineering student at **Jordan University of Science and Technology (JUST)** with a strong interest in building practical software solutions.
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
-  
-### 🧐 More About Me:
+My main focus is **Full-Stack Web Development**, using modern JavaScript/TypeScript technologies, while exploring how **AI can be integrated into real-world applications**.
 
-- 🔭 &nbsp; I’m currently working on **youtube-audio-player**
-- 🤝 &nbsp; I’m looking to collaborate on [sheets-database](https://github.com/rahul-jha98/sheets-database)
-- 🌱 &nbsp; I’m currently learning Typescript; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rahul-jha98?tab=repositories)
-- 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rahul-jha98/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
-- 📚 &nbsp; When I am free, I read fantasy and fiction novels. Checkout my [Goodreads](https://www.goodreads.com/rahul-jha98) to see the book I have read
+I enjoy learning by building, understanding how things work under the hood, and turning concepts into practical implementations.
 
-<br>
+---
 
-### 🔨 Languages and Tools:
-<a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-<a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
-<a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kotlin/kotlin.svg"></a>
-<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
-<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
-<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
-<a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
+## 🧠 About Me
 
-<br>
+* 🎓 Computer Engineering student at **Jordan University of Science and Technology**
+* 💻 Focused on **Full-Stack Web Development**
+* 🤖 Exploring **AI Integration, AI Agents, and AI-powered applications**
+* 🌐 Working with **Next.js, React, Node.js, TypeScript, and databases**
+* 🐍 Experienced with **Python** and familiar with backend development using Django
+* 🗄️ Working with both **SQL and NoSQL databases**
+* 🐳 Familiar with **Docker** and modern development workflows
+* 🧩 Strong foundation in **C++, OOP, Data Structures & Algorithms**
+* 📚 I document what I learn and focus on understanding concepts rather than simply following tutorials
+* 🚀 Currently improving my ability to design, build, and deploy complete applications
 
+---
 
-### 📊 Github Stats
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
+## 🛠️ Tech Stack
 
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,cs,python,javascript,typescript,html,css,sql" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django" />
+</p>
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
+</p>
+
+### Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman" />
+</p>
+
+### AI & Automation
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+* AI API integration
+* AI-powered applications
+* AI Agents
+* Workflow automation with n8n
+* Local AI experimentation with Ollama
+
+---
+
+## 🔨 What I'm Currently Working On
+
+* 🚀 Strengthening my **Full-Stack development skills**
+* ⚙️ Building applications with **Next.js + Node.js**
+* 🗄️ Improving my backend and database architecture skills
+* 🤖 Exploring **AI integration and agentic workflows**
+* 🧪 Practicing through independent tasks and projects
+* 📦 Learning how to build applications from development to deployment
+
+---
+
+## 📚 Learning Approach
+
+I believe in learning through **understanding + implementation**.
+
+Instead of only completing tutorials, I try to:
+
+**Learn → Understand → Build → Debug → Document → Apply**
+
+I use AI as a learning mentor to generate programming tasks and project ideas, while implementing and solving them independently.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+Here are some of the projects I'm working on and building as part of my development journey.
+
+<!-- Add your projects here -->
+
+### 🌐 Full-Stack Applications
+
+Applications built to practice frontend, backend, databases, authentication, APIs, and deployment.
+
+### 🤖 AI-Powered Applications
+
+Projects exploring AI APIs, AI agents, automation, and integrating intelligent features into software applications.
+
+### 🧩 Software Engineering Projects
+
+Projects focused on problem solving, algorithms, backend development, and software architecture.
+
+---
+
+## 📈 My Development Journey
+
+```text
+C++ / OOP / Data Structures & Algorithms
+                ↓
+          Python & Backend
+                ↓
+       HTML / CSS / JavaScript
+                ↓
+             React
+                ↓
+          TypeScript
+                ↓
+            Next.js
+                ↓
+          Node.js / Express
+                ↓
+       SQL / NoSQL Databases
+                ↓
+          Git / Docker
+                ↓
+       AI Integration & Agents
+```
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in connecting with developers, engineers, and people working on interesting technology projects.
+
+<p>
+<a href="https://www.linkedin.com/in/altamimi962/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
 </a>
+</p>
 
-<br>
+---
 
-### 🛠️ My Projects
-<a href="https://rahul-jha98.github.io/Artistify.ai/" target="_blank"> <img alt="artistify" src="./projects/artistify.svg" height="68" align="left"> </a>
-<a href="https://rahul-jha98.github.io/sheets-database/" target="_blank"> <img alt="sheetsdatabase" src="./projects/sheetsdatabase.svg"  height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/README_icons" target="_blank"> <img alt="readmeicons" src="./projects/readmeicons.svg" height="68" align="left"> </a>
-<a href="https://thepasswordkeeper.netlify.app/" target="_blank"> <img alt="passwordkeeper" src="./projects/passwordkeeper.svg" height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/PasswordKeeper" target="_blank"> <img alt="oxytracker" src="./projects/oxytracker.svg" height="68" align="left"> </a>
-<a href="https://wavelengths.netlify.app/" target="_blank"> <img alt="wavelength" src="./projects/wavelength.svg" height="68" align="left"> </a>
+⭐ Feel free to explore my repositories and follow my journey as I continue building and learning.
